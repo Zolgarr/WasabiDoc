@@ -42,7 +42,7 @@ These must also be carefully backed up, as they are needed to recover your walle
 Make sure you store the backup of your recovery words in a different location than the backup of your password.
 
 :::warning Backup both!
-If you ever need to restore your wallet in Wasabi, or any other wallet, you will need both: your password AND your 12 recovery words.
+If you ever need to restore your wallet in Wasabi or any other wallet, you will need both: your password AND your 12 recovery words.
 :::
 
 See [this chapter](/using-wasabi/WalletGeneration.md) for more information on how to securely generate your wallet.
@@ -65,7 +65,7 @@ Although the CoinJoin protocol is a bit complex, it is very easy to use in Wasab
 3. Type in your password.
 4. Click enqueue.
 
-Now have a little patience, within a short while you should have a sufficient anonymity set to protect your privacy.
+Now have a little patience, within a short while you should have sufficient anonymity set to protect your privacy.
 
 See [this chapter](/using-wasabi/CoinJoin.md) for a thorough analysis of CoinJoin, details on the Wasabi implementation and best practices how to use it properly.
 
